@@ -17,14 +17,14 @@
 
 ## 文档列表
 
-- [01-Telegram基础知识](./01-Telegram基础知识.md) - Telegram 介绍、核心优势、功能对比
-- [02-TelegramPremium会员](./02-TelegramPremium会员.md) - Premium 会员功能介绍和使用指南
-- [03-Telegram简体中文语言包](./03-Telegram简体中文语言包.md) - 中文界面设置和语言包安装
-- [04-Telegram无法主动发起私聊](./04-Telegram无法主动发起私聊.md) - 私聊限制问题解决方案
-- [05-Telegram注册登录收不到短信验证码](./05-Telegram注册登录收不到短信验证码.md) - 验证码接收问题解决
-- [06-Telegram iOS客户端无法进入查看开车群的方法](./06-Telegram%20iOS客户端无法进入查看开车群的方法.md) - iOS 敏感内容查看设置
-- [07-Telegram客户端下载地址大全](./07-Telegram客户端下载地址大全.md) - 官方和第三方客户端下载
-- [08-联系Telegram官方客服和账号风控申述](./08-联系Telegram官方客服和账号风控申述.md) - 客服联系方式和申诉模板
+- [01-Telegram基础知识](./doc/01-Telegram基础知识.md) - Telegram 介绍、核心优势、功能对比
+- [02-TelegramPremium会员](./doc/02-TelegramPremium会员.md) - Premium 会员功能介绍和使用指南
+- [03-Telegram简体中文语言包](./doc/03-Telegram简体中文语言包.md) - 中文界面设置和语言包安装
+- [04-Telegram无法主动发起私聊](./doc/04-Telegram无法主动发起私聊.md) - 私聊限制问题解决方案
+- [05-Telegram注册登录收不到短信验证码](./doc/05-Telegram注册登录收不到短信验证码.md) - 验证码接收问题解决
+- [06-Telegram iOS客户端无法进入查看开车群的方法](./doc/06-Telegram%20iOS客户端无法进入查看开车群的方法.md) - iOS 敏感内容查看设置
+- [07-Telegram客户端下载地址大全](./doc/07-Telegram客户端下载地址大全.md) - 官方和第三方客户端下载
+- [08-联系Telegram官方客服和账号风控申述](./doc/08-联系Telegram官方客服和账号风控申述.md) - 客服联系方式和申诉模板
 
 ---
 
