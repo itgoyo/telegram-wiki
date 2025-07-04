@@ -71,4 +71,4 @@ Telegram 官方只开放了语言包翻译接口, 官方没有提供中文语言
 
 **相关标签：** `#Telegram` `#语言包` `#电报语言包` `#电报简体中文` `#电报中文` `#电报中文版`
 
-**更多有趣好玩的群组可以点击[https://dianbaodaohang.com](https://dianbaodaohang.com)查看**
+**更多有趣好玩的群组可以点击[电报导航](https://dianbaodaohang.com)查看**
