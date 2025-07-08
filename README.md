@@ -43,6 +43,7 @@
 
 ## 文档列表
 
+- [00-Telegram使用教程](./doc/00-Telegram使用教程.md) - Telegram 详细使用教程
 - [01-Telegram基础知识](./doc/01-Telegram基础知识.md) - Telegram 介绍、核心优势、功能对比
 - [02-TelegramPremium会员](./doc/02-TelegramPremium会员.md) - Premium 会员功能介绍和使用指南
 - [03-Telegram简体中文语言包](./doc/03-Telegram简体中文语言包.md) - 中文界面设置和语言包安装
