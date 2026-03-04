@@ -22,7 +22,7 @@
 | 💎电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付，1秒克隆同款机器人   |
 | 🚀每日免费节点   | [https://vpnnav.github.io](https://vpnnav.github.io)               | 每天整点准时更新免费高速节点,永久高速节点 |
 | 🌈彩虹群发器   | [https://shop.tg10000.com/buy/1](https://shop.tg10000.com/buy/1)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
-| 免费频道搬运机器人   | 免费机器人[@xnby003bot](https://t.me/xnby003bot)           | 免费机器人[@xnby003bot](https://t.me/xnby003bot) 搭建同款机器人[@sxhzbot](https://t.me/sxhzbot) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰 可文末添加自定义广告按钮，替换指定文本内容  |
+| 免费频道搬运机器人   | 免费机器人[@xnby08bot](https://t.me/xnby08bot)           | 免费机器人[@xnby08bot](https://t.me/xnby08bot) 搭建同款机器人[@tgxiunv](https://t.me/tgxiunv) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰 可文末添加自定义广告按钮，替换指定文本内容  |
 
 # Telegram 使用指南大全
 
